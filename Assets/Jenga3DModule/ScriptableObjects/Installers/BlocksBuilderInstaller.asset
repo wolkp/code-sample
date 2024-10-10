@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3529af15f8e10e6489c7f02193fdd537, type: 3}
+  m_Name: BlocksBuilderInstaller
+  m_EditorClassIdentifier: 
+  _settings:
+    BlockPrefab: {fileID: 2816765440152055317, guid: 749969722058b604a950f32946dc6da2, type: 3}
+    BlocksPerLevel: 3
+    SpaceBetweenBlocks: 0.45
+    SpaceBetweenLayers: 0.6
+    BlockAppearanceSettings: {fileID: 11400000, guid: 63d646a415fb7d845ad26ff5af9750d7, type: 2}

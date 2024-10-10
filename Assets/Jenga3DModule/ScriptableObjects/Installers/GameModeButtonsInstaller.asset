@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb229b07c1f74874f8218c82e3d9cf5c, type: 3}
+  m_Name: GameModeButtonsInstaller
+  m_EditorClassIdentifier: 
+  _settings:
+    ButtonPrefab: {fileID: -8675405584396807756, guid: b2d6a682bb077a84c927f168b49be213, type: 3}

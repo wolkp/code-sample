@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85eb65eb341f26842bee167603f6f82e, type: 3}
+  m_Name: BlockAppearanceSettings
+  m_EditorClassIdentifier: 
+  _appearanceData:
+  - MasteryLevel: 0
+    MasteryLevelName: 
+    MaterialName: Glass
+    Material: {fileID: 2100000, guid: 749d30d3665d0c140bbcda7d4aae3dfe, type: 2}
+  - MasteryLevel: 1
+    MasteryLevelName: Learned
+    MaterialName: Wood
+    Material: {fileID: 2100000, guid: fa874f335a1d7684aa36387aa7c90124, type: 2}
+  - MasteryLevel: 2
+    MasteryLevelName: Mastered
+    MaterialName: Stone
+    Material: {fileID: 2100000, guid: c4fe000d24b8db64391150fc9c7b3f6f, type: 2}
